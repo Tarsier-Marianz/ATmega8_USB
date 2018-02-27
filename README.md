@@ -7,4 +7,4 @@ A simple USB based prototyping board for Atmel's AVR microcontrollers (ATmega8).
 
 ### Thanks
 
-[KiCad IDE](kicad-pcb.org/) - for letting me use a free software in designing PCB
+[KiCad IDE](http://kicad-pcb.org/) - for letting me use a free software in designing PCB
